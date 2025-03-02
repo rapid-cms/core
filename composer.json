@@ -1,7 +1,7 @@
 {
     "name": "rapid-cms/core",
     "description": "This is the core for RapidCMS project",
-    "version": "0.1",
+    "version": "0.1.0",
     "keywords": [
         "rapid-cms",
         "laravel",
