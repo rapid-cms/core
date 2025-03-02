@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace RapidCMS\Core\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class RapidCMSCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'core';
 
     public $description = 'My command';
 
