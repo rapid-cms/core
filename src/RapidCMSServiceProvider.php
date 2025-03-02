@@ -10,7 +10,6 @@ use YourPackage\Renderers\ReactViewRenderer;
 
 class RapidCMSServiceProvider extends PackageServiceProvider
 {
-
     public function configurePackage(Package $package): void
     {
         /*
@@ -37,7 +36,7 @@ class RapidCMSServiceProvider extends PackageServiceProvider
                 //     return new LivewireViewRenderer();
                 case 'inertia-react':
                 default:
-                    return new ReactViewRenderer();
+                    return new ReactViewRenderer;
             }
         });
     }

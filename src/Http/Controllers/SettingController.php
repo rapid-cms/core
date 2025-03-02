@@ -11,5 +11,4 @@ class SettingController
     {
         return Inertia::render('rapid-cms::settings/index');
     }
-    
 }

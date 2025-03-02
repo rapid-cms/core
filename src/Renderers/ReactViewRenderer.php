@@ -12,4 +12,3 @@ class ReactViewRenderer implements ViewRendererInterface
         return Inertia::render("YourPackage/React/{$view}", $data);
     }
 }
-
