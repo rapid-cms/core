@@ -1,0 +1,19 @@
+{
+    "name": "rapid-cms-core",
+    "version": "1.0.0",
+    "description": "[![Latest Version on Packagist](https://img.shields.io/packagist/v/rapid-cms/core.svg?style=flat-square)](https://packagist.org/packages/rapid-cms/core)\r [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/rapid-cms/core/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/rapid-cms/core/actions?query=workflow%3Arun-tests+branch%3Amain)\r [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/rapid-cms/core/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/rapid-cms/core/actions?query=workflow%3A\"Fix+PHP+code+style+issues\"+branch%3Amain)\r [![Total Downloads](https://img.shields.io/packagist/dt/rapid-cms/core.svg?style=flat-square)](https://packagist.org/packages/rapid-cms/core)",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "@types/react": "^19.0.3",
+        "react": "^19.0.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
